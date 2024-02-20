@@ -5,12 +5,12 @@
 
 - 🌱 I’m currently learning **NextJs**
 
+- 📄 I have **5+ years** of experience
+
 - 💬 Ask me about **React, Vue, TypeScript, JavaScript**
 
-- 📫 How to reach me **sagarsri17@gmail.com**
-
 ###
-
+<h3 align="left">👨‍💻 My Stats :</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sagarsinha-code&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarsinha-code&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -18,6 +18,7 @@
 
 ###
 
+<h3 align="left">:hammer_and_wrench: Languages and Tools I worked with :</h3>
 <div align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
@@ -67,6 +68,7 @@
 
 ###
 
+<h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="mailto:sagarsri17@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://linkedin.com/in/sagar-sinha-674938120" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
@@ -74,8 +76,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ###
