@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
+- 📄 I have **5+ years** of experience
+
 - 🔭 I’m currently working in **Deloitte**
 
 - 🌱 I’m currently learning **NextJs**
-
-- 📄 I have **5+ years** of experience
 
 - 💬 Ask me about **React, Vue, TypeScript, JavaScript**
 
